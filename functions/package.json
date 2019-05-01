@@ -1,0 +1,26 @@
+{
+  "name": "functions",
+  "scripts": {
+    "build": "tsc",
+    "serve": "npm run build && firebase serve --only functions",
+    "shell": "npm run build && firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log",
+    "import": "tsc && node lib/firestore_import_data.js"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "@types/algoliasearch": "^3.30.8",
+    "algoliasearch": "^3.32.1",
+    "firebase-admin": "^7.3.0",
+    "firebase-functions": "^2.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  },
+  "engines": {
+    "node": "8"
+  },
+  "private": true
+}

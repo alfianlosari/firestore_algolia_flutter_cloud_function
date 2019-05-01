@@ -1,0 +1,288 @@
+[
+    {
+        "vote_count": 5740,
+        "objectID": "240",
+        "vote_average": 8.5,
+        "title": "The Godfather: Part II",
+        "popularity": 21.72,
+        "poster_path": "\/bVq65huQ8vHDd1a4Z37QtuyEvpA.jpg",
+        "genres": [
+            "mafia",
+            "drama"
+        ]
+    },
+    {
+        "vote_count": 9821,
+        "objectID": "238",
+        "video": false,
+        "vote_average": 8.6,
+        "title": "The Godfather",
+        "popularity": 23.234,
+        "poster_path": "\/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg",
+        "genres": [
+            "mafia",
+            "drama"
+        ]
+    },
+    {
+        "vote_count": 3191,
+        "objectID": "299534",
+        "vote_average": 8.7,
+        "title": "Avengers: Endgame",
+        "popularity": 471.358,
+        "poster_path": "\/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+        "genres": [
+            "action",
+            "superhero",
+            "marvel"
+        ]
+    },
+    {
+        "vote_count": 932,
+        "objectID": "299537",
+        "vote_average": 7.3,
+        "title": "Captain Marvel",
+        "popularity": 594.009,
+        "poster_path": "\/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+        "genres": [
+            "action",
+            "superhero",
+            "marvel"
+        ]
+    },
+    {
+        "vote_count": 1351,
+        "objectID": "399579",
+        "vote_average": 6.7,
+        "title": "Alita: Battle Angel",
+        "popularity": 288.924,
+        "poster_path": "\/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+        "genres": [
+            "action",
+            "superhero",
+            "animation"
+        ]
+    },
+    {
+        "vote_count": 4224,
+        "objectID": "297802",
+        "vote_average": 6.8,
+        "title": "Aquaman",
+        "popularity": 241.812,
+        "poster_path": "\/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg",
+        "genres": [
+            "action",
+            "superhero",
+            "dc"
+        ]
+    },
+    {
+        "vote_count": 2394,
+        "objectID": "324857",
+        "vote_average": 8.5,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "popularity": 239.471,
+        "poster_path": "\/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "genres": [
+            "action",
+            "superhero",
+            "cartoon",
+            "marvel",
+            "animation"
+        ]
+    },
+    {
+        "vote_count": 924,
+        "objectID": "166428",
+        "vote_average": 7.9,
+        "title": "How to Train Your Dragon: The Hidden World",
+        "popularity": 226.318,
+        "poster_path": "\/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+        "genres": [
+            "animation",
+            "dreamworks",
+            "adventure"
+        ]
+    },
+    {
+        "vote_count": 3750,
+        "objectID": "338952",
+        "vote_average": 6.9,
+        "title": "Fantastic Beasts: The Crimes of Grindelwald",
+        "popularity": 191.048,
+        "poster_path": "\/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+        "genres": [
+            "fantasy",
+            "action",
+            "adventure"
+        ]
+    },
+    {
+        "vote_count": 729,
+        "objectID": "449563",
+        "vote_average": 6.4,
+        "title": "Isn't It Romantic",
+        "popularity": 175.977,
+        "poster_path": "\/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg",
+        "genres": [
+            "drama",
+            "love"
+        ]
+    },
+    {
+        "vote_count": 2104,
+        "objectID": "490132",
+        "vote_average": 8.3,
+        "title": "Green Book",
+        "popularity": 163.276,
+        "poster_path": "\/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+        "genres": [
+            "drama"
+        ]
+    },
+    {
+        "vote_count": 1664,
+        "objectID": "450465",
+        "vote_average": 6.6,
+        "title": "Glass",
+        "popularity": 160.868,
+        "poster_path": "\/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+        "genres": [
+            "horror",
+            "thriller",
+            "action"
+        ]
+    },
+    {
+        "vote_count": 55,
+        "objectID": "445629",
+        "vote_average": 6.7,
+        "title": "Fighting with My Family",
+        "popularity": 147.371,
+        "poster_path": "\/3TZCBAdKQiz0cGKGEjZiyZUA01O.jpg",
+        "original_language": "en",
+        "genres": [
+            "family",
+            "drama"
+        ]
+    },
+    {
+        "vote_count": 1632,
+        "objectID": "480530",
+        "vote_average": 6.6,
+        "title": "Creed II",
+        "popularity": 143.602,
+        "poster_path": "\/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+        "genres": [
+            "action"
+        ]
+    },
+    {
+        "vote_count": 923,
+        "objectID": "400650",
+        "vote_average": 6.8,
+        "title": "Mary Poppins Returns",
+        "popularity": 143.304,
+        "poster_path": "\/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+        "genres": [
+            "drama",
+            "adventure",
+            "classic"
+        ]
+    },
+    {
+        "vote_count": 3324,
+        "objectID": "337167",
+        "vote_average": 6.1,
+        "title": "Fifty Shades Freed",
+        "popularity": 143.085,
+        "poster_path": "\/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+        "genres": [
+            "love",
+            "drama"
+        ]
+    },
+    {
+        "vote_count": 62,
+        "objectID": "487297",
+        "vote_average": 6,
+        "title": "What Men Want",
+        "popularity": 142.915,
+        "poster_path": "\/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg",
+        "genres": [
+            "love",
+            "drama"
+        ]
+    },
+    {
+        "vote_count": 306,
+        "objectID": "512196",
+        "vote_average": 6.2,
+        "title": "Happy Death Day 2U",
+        "popularity": 139.345,
+        "poster_path": "\/whtt9F8PFqvEgc4fDSHZPkitFk4.jpg",
+        "genres": [
+            "action",
+            "thriller"
+        ]
+    },
+    {
+        "vote_count": 42,
+        "objectID": "450001",
+        "video": false,
+        "vote_average": 5.8,
+        "title": "Master Z: Ip Man Legacy",
+        "popularity": 138.198,
+        "poster_path": "\/2WfjB6FUDTIBVI2y02UGbnHR82s.jpg",
+        "genres": [
+            "fighting"
+        ]
+    },
+    {
+        "vote_count": 5987,
+        "objectID": "424694",
+        "vote_average": 8.1,
+        "title": "Bohemian Rhapsody",
+        "popularity": 131.906,
+        "poster_path": "\/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+        "genres": [
+            "biography",
+            "drama"
+        ]
+    },
+    {
+        "vote_count": 1091,
+        "objectID": "428078",
+        "vote_average": 5.9,
+        "title": "Mortal Engines",
+        "popularity": 130.875,
+        "poster_path": "\/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+        "genres": [
+            "action"
+        ]
+    },
+    {
+        "vote_count": 6996,
+        "objectID": "920",
+        "vote_average": 6.7,
+        "title": "Cars",
+        "popularity": 118.235,
+        "poster_path": "\/5damnMcRFKSjhCirgX3CMa88MBj.jpg",
+        "genres": [
+            "animation",
+            "drama",
+            "car"
+        ]
+    },
+    {
+        "vote_count": 9,
+        "objectID": "490033",
+        "vote_average": 7,
+        "title": "Holiday",
+        "popularity": 110.68,
+        "poster_path": "\/vlDRxVM3XCwq7ty9MmHoVeOcvWp.jpg",
+        "genres": [
+            "family"
+        ]
+    }
+]
